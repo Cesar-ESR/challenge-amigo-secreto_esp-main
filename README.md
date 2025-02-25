@@ -3,7 +3,7 @@
 
 Este es un proyecto web interactivo para organizar un sorteo de "Amigo Secreto". Los participantes pueden ingresar sus nombres y realizar un sorteo aleatorio.
 
-- Tecnologías utilizadas
+# - Tecnologías utilizadas
 
     HTML5
 
@@ -11,6 +11,6 @@ Este es un proyecto web interactivo para organizar un sorteo de "Amigo Secreto".
 
     JavaScript (Vanilla)
 
-- Captura de pantalla
+# - Captura de pantalla
     
     ![Vista previa del proyecto](assets/Screenshot.png)
