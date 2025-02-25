@@ -14,8 +14,7 @@ Este es un proyecto web para organizar un sorteo de "Amigo Secreto", donde los p
 ##  Instalación
 1. Clona este repositorio:
    ```sh
-   git clone https://github.com/tu-usuario/challenge-amigo-secreto_esp-main
-.git
+   git clone https://github.com/tu-usuario/challenge-amigo-secreto_esp-main.git
 2. Abre index.html en tu navegador.
 
 ## 🎮 Cómo usar
