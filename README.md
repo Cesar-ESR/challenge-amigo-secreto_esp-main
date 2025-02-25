@@ -1,16 +1,25 @@
 # challenge-amigo-secreto_esp-main
-<h2>Amigo Secreto</h2>
+#  Amigo Secreto
 
-Este es un proyecto web interactivo para organizar un sorteo de "Amigo Secreto". Los participantes pueden ingresar sus nombres y realizar un sorteo aleatorio.
+Este es un proyecto web para organizar un sorteo de "Amigo Secreto", donde los participantes pueden ingresar sus nombres y hacer un sorteo aleatorio.
 
-# - Tecnologías utilizadas
+##  Tecnologías utilizadas
+- HTML5
+- CSS3
+- JavaScript (Vanilla)
 
-    HTML5
+##  Captura de pantalla
+![Vista previa del proyecto](assets/Screenshot.png)
 
-    CSS3
+##  Instalación
+1. Clona este repositorio:
+   ```sh
+   git clone https://github.com/tu-usuario/challenge-amigo-secreto_esp-main
+.git
+2. Abre index.html en tu navegador.
 
-    JavaScript (Vanilla)
-
-# - Captura de pantalla
-    
-    ![Vista previa del proyecto](assets/Screenshot.png)
+## 🎮 Cómo usar
+1. Ingresa los nombres de los participantes.
+2. Presiona "Añadir" para agregarlos a la lista.
+3. Presiona "Sortear amigo" para obtener un resultado aleatorio.
+4. Usa "Reiniciar" para limpiar la lista.
