@@ -10,3 +10,7 @@ Este es un proyecto web interactivo para organizar un sorteo de "Amigo Secreto".
     CSS3
 
     JavaScript (Vanilla)
+
+- Captura de pantalla
+    
+    ![Vista previa del proyecto](assets/Screenshot.png)
