@@ -1,5 +1,5 @@
 # challenge-amigo-secreto_esp-main
-Amigo Secreto
+<h2>Amigo Secreto</h2>
 
 Este es un proyecto web interactivo para organizar un sorteo de "Amigo Secreto". Los participantes pueden ingresar sus nombres y realizar un sorteo aleatorio.
 
@@ -10,4 +10,3 @@ Este es un proyecto web interactivo para organizar un sorteo de "Amigo Secreto".
     CSS3
 
     JavaScript (Vanilla)
-    
