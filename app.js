@@ -21,7 +21,7 @@ function agregarAmigo() {
     }else{
 
         if (!regex.test(amigo)) {
-            alert("El nombre solo debe contener letras y espacios, sin números ni caracteres especiales.");
+            alert("El nombre solo debe contener letras y espacios, sin números ni caracteres especiales. Intente de nuevo");
             return;
         }else{
 
